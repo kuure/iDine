@@ -13,6 +13,7 @@ struct ContentView: View {
   
   var body: some View {
     NavigationStack {
+      
       List {
         ForEach(menu) { section in
           Section(section.name) {
