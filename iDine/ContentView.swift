@@ -46,12 +46,3 @@ struct ContentView: View {
 #Preview {
   ContentView()
 }
-/*
-struct ItemDetail_Previews: PreviewProvider {
-  static var previews: some View {
-    NavigationStack {
-      ItemDetail(item: MenuItem.example)
-    }
-  }
-}
-*/
